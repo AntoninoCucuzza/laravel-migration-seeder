@@ -1,5 +1,5 @@
-<header class="p-1">
-    <nav class="navbar navbar-expand-lg bg-body-secondary">
+<header class="">
+    <nav class="navbar navbar-expand-lg bg-body-secondary p-1">
         <div class="container-fluid">
             <a class="navbar-brand fs-3" href="#">trenitalia</a>
 

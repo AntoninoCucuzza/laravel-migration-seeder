@@ -1,11 +1,33 @@
 @import '~bootstrap/scss/bootstrap';
 
+
 body {
-    background-color: #222;
+    background-color: #333;
     color: white;
     min-height: 100vh;
 }
 
 a {
     text-decoration: none;
+}
+
+
+header {
+    background-color: #222;
+}
+
+.card {
+    border: none;
+    color: white;
+}
+
+.card-header {
+    background-color: #c41329;
+    border: none;
+
+}
+
+.card-body {
+    background-color: #6c757d;
+    border: none;
 }
